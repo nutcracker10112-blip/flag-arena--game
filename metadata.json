@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of Country Flag Elimination Game",
+  "description": "A fun physics-based elimination game where country flags compete in a circular arena to be the last one remaining. Flags are randomly eliminated by a rotating gap until a single winner is declared.",
+  "requestFramePermissions": []
+}
